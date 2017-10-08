@@ -1,5 +1,4 @@
 # Javascript_Projects
-<br>
 Broad Topics:<br>
 1.Autonomous Agents<br>
 2.Perlin Noise (P5.js)<br>
