@@ -1,8 +1,8 @@
 # Javascript_Projects
-\n
-Broad Topics:\n
-1.Autonomous Agents\n
-2.Perlin Noise (P5.js)\n
-3.Genetic Algorithms\n
-4.Steering Behaviour (Vector Math)\n
-5.Games\n
+<br>
+Broad Topics:<br>
+1.Autonomous Agents<br>
+2.Perlin Noise (P5.js)<br>
+3.Genetic Algorithms<br>
+4.Steering Behaviour (Vector Math)<br>
+5.Games<br>
